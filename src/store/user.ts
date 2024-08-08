@@ -1,5 +1,5 @@
 // 定义state的类型
-import { ActionContext, StoreOptions } from "vuex";
+import { StoreOptions } from "vuex";
 import ACCESS_ENUM from "@/access/accessEnum";
 import { UserControllerService } from "../../generated";
 
